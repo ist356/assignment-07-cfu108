@@ -24,3 +24,4 @@ Examples:
 `--- Reflection Below This Line ---`
 
 Building this scraper improved my understanding of web scraping techniques using Playwright, specifically navigating pages, extracting elements, and saving data. It also enhanced my ability to structure scraped data into a usable format like CSV.
+
